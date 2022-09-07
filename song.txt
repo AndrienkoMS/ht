@@ -1,5 +1,9 @@
 first line
-second line
+second lion
 # adding lines from github
 third line
 fourth line
+
+# adding lines from PC to push them via git gui
+# git gui& command opens git gui
+fifth linefourth line
